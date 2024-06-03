@@ -1,0 +1,19 @@
+footer{
+    background-color: black;
+    /* height: 500px; */
+}
+h3,p{
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+.container-footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    height: 100vh;
+}

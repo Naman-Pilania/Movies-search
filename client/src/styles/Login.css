@@ -1,0 +1,9 @@
+.login-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h1{
+    font-size: 2.2rem;
+    margin: 30px;
+}
